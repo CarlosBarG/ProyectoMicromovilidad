@@ -1,8 +1,8 @@
-﻿DIA_SEMANA,ACCIDENTES
-Lunes,62
-Martes,50
-Miércoles,56
-Jueves,58
-Viernes,59
-Sábado,41
-Domingo,33
+﻿DIA_SEMANA,ACCIDENTES,PORCENTAJE
+Lunes,62,17.27
+Martes,50,13.93
+Miércoles,56,15.6
+Jueves,58,16.16
+Viernes,59,16.43
+Sábado,41,11.42
+Domingo,33,9.19

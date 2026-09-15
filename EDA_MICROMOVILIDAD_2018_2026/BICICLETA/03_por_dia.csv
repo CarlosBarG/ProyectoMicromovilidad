@@ -1,8 +1,8 @@
-﻿DIA_SEMANA,ACCIDENTES
-Lunes,3552
-Martes,4129
-Miércoles,3991
-Jueves,4016
-Viernes,4070
-Sábado,3469
-Domingo,2327
+﻿DIA_SEMANA,ACCIDENTES,PORCENTAJE
+Lunes,3552,13.9
+Martes,4129,16.16
+Miércoles,3991,15.62
+Jueves,4016,15.72
+Viernes,4070,15.93
+Sábado,3469,13.58
+Domingo,2327,9.11
